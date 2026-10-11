@@ -68,7 +68,7 @@ Extra income follows its own rule: a percentage goes to savings and the rest is 
 **Prerequisites:** Node.js (LTS) and the [Expo Go](https://expo.dev/go) app on your phone.
 
 ```bash
-git clone https://github.com/<your-username>/app-financas.git
+git clone https://github.com/<filipalimaa>/app-financas.git
 cd app-financas
 npm install
 npx expo start
@@ -117,7 +117,7 @@ Commits follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.
 
 ## 👩‍💻 Author
 
-**Filipa**: [GitHub](https://github.com/<your-username>) · [LinkedIn](<link>)
+**Filipa**: [GitHub](<https://github.com/filipalimaa>) · [LinkedIn](<https://www.linkedin.com/in/filipaalima/>)
 
 ## 📄 License
 
